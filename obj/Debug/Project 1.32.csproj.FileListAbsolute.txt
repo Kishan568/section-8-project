@@ -1,0 +1,8 @@
+E:\Section 8 project\Project 1.32\bin\Debug\Project 1.32.exe.config
+E:\Section 8 project\Project 1.32\bin\Debug\Project 1.32.exe
+E:\Section 8 project\Project 1.32\bin\Debug\Project 1.32.pdb
+E:\Section 8 project\Project 1.32\obj\Debug\Project 1.32.csproj.AssemblyReference.cache
+E:\Section 8 project\Project 1.32\obj\Debug\Project 1.32.csproj.SuggestedBindingRedirects.cache
+E:\Section 8 project\Project 1.32\obj\Debug\Project 1.32.csproj.CoreCompileInputs.cache
+E:\Section 8 project\Project 1.32\obj\Debug\Project 1.32.exe
+E:\Section 8 project\Project 1.32\obj\Debug\Project 1.32.pdb
